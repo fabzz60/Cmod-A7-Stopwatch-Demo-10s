@@ -5,7 +5,7 @@ Basic familiarity with Vivado
 Familiarity with programming the GPIO of the CmodA7
 
 Software
-•	Vivado Design Suite
+"Vivado Design Suite"
 
 Hardware
 •	CmodA7-35T
