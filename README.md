@@ -8,8 +8,8 @@ Software
 •	Vivado Design Suite
 
 Hardware
-•	CmodA7-15T or CmodA7-35T
-•	Four Digit 7-segment Display
+•	CmodA7-35T
+•	Six Digit 7-segment Display
 •	Breadboard
 •	Jumper Wires
 
