@@ -8,7 +8,4 @@ Familiarity with programming the GPIO of the CmodA7
 
 **Hardware:**  CmodA7-35T and Six Digit 7-segment Display on PCB board 2 layers
   
-
-![ezcv logo](https://github.com/fabzz60/Cmod-A7-Stopwatch-Demo-10s/blob/main/chronometre.jpg)
-
 ![ezcv logo](https://github.com/fabzz60/Cmod-A7-Stopwatch-Demo-10s/blob/main/board_chronometre.jpg)
