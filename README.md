@@ -10,3 +10,5 @@ Familiarity with programming the GPIO of the CmodA7
   
 
 ![ezcv logo](https://github.com/fabzz60/Cmod-A7-Stopwatch-Demo-10s/blob/main/chronometre.jpg)
+
+![ezcv logo](https://github.com/fabzz60/Cmod-A7-Stopwatch-Demo-10s/blob/main/board chronometre.jpg)
