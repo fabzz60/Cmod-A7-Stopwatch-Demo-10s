@@ -12,3 +12,5 @@ Hardware
 •	Four Digit 7-segment Display
 •	Breadboard
 •	Jumper Wires
+
+![ezcv logo](https://github.com/fabzz60/Cmod-A7-Stopwatch-Demo-10s/blob/main/Synoptique%20Lock%20laser%20Rubidium%202022.jpg)
